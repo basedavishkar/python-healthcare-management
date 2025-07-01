@@ -1,6 +1,6 @@
 # Healthcare Management System
 
-> ⚠️ This project is no longer maintained. See the successor project: [I'll ad the link ASAP]
+> ⚠️ This project is no longer maintained. See the successor project: [[link]](https://github.com/basedavishkar/vitalit-os)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Healthcare%20Management%20System-blue?style=flat&logo=github)](https://github.com/ashkaaar/healthcare-management-system)
 
